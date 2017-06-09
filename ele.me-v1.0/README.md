@@ -1,4 +1,4 @@
-# sell
+# ele.me demo
 
 > a sell app
 
